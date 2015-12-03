@@ -1,0 +1,19 @@
+Plasmaglobe x Kaleidoscope
+What happens when you look at a plasma globe through a kaleidoscope? Magic.
+The tactile response of the plasma globe adds a unique flavour of interactivity.
+Using a tapered-mirror design for the kaleidoscope produces enchanting 3D effects, which take it to an entirely new level.
+
+Infinity Mirror Cube
+A cube was constructed with regular mirrors forming three adjacent faces, while the opposite faces were 50/50 mirrors.
+Blue electro-luminescent wire was placed inside as an illumination source.
+The result is a mesmerizing kaleidoscopic infinity mirror effect. Since the faces are made from acrylic, pressing on them only makes the effect better.
+
+Pleasant Closed Loop Pendulum Waves
+A relatively straightforward gif created using Processing.
+Each individual dot oscillates sinusoidally along a fixed radial path. Adjacent dots have different oscillation frequencies, which results in interesting patterns.
+This follows the mathematics of the "pendulum wave" phenomenon, which is explained very well in <a href="www.physics.iitm.ac.in/~arul/PH1010/AJP000778PendulumWaves2.pdf">this paper</a>.
+The difference here is that the pendula have been arranged in a circle, rather than a straight line.
+As a bonus, staring at the centre of the image induces an illusion effect, where some of the dots appear to have dark centres.
+
+Freddie The Robot
+Takes some rigid stainless steel ducting, flexible vinyl ducting, LEDs... and you have Freddie the robot.  Straw hat optional.
